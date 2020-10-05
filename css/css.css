@@ -1,0 +1,6 @@
+html, body {
+    overflow: hidden;
+}
+#map{
+    background-repeat: no-repeat !important;
+}
